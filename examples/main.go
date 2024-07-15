@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/efinitysec/docxer/pkg/docxer"
+	"github.com/efinitysec/doxer/pkg/docxer"
 )
 
 func main() {

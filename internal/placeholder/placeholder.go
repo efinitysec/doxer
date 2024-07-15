@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/aliamerj/docxer/internal/utils"
+	"github.com/efinitysec/doxer/internal/utils"
 )
 
 type PlaceholderAction func() utils.DocxWriter

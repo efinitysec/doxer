@@ -10,8 +10,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/aliamerj/docxer/internal/template"
-	"github.com/aliamerj/docxer/internal/utils"
+	"github.com/efinitysec/doxer/internal/template"
+	"github.com/efinitysec/doxer/internal/utils"
 )
 
 //go:embed template/*

@@ -3,10 +3,10 @@ package docxer
 import (
 	"path/filepath"
 
-	"github.com/aliamerj/docxer/internal/document"
-	"github.com/aliamerj/docxer/internal/markdown"
-	"github.com/aliamerj/docxer/internal/placeholder"
-	"github.com/aliamerj/docxer/internal/utils"
+	"github.com/efinitysec/doxer/internal/document"
+	"github.com/efinitysec/doxer/internal/markdown"
+	"github.com/efinitysec/doxer/internal/placeholder"
+	"github.com/efinitysec/doxer/internal/utils"
 )
 
 type docxer struct {

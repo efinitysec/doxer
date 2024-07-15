@@ -1,4 +1,4 @@
-module github.com/aliamerj/docxer
+module github.com/efinitysec/doxer
 
 go 1.22.1
 
